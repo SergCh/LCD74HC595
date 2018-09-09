@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-LCD74HC595	KEYWORD1	LCD74HC595
+LCD74HC595	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
